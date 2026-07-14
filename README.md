@@ -5,9 +5,6 @@ Future Sales Prediction — Vanish
 Partner Company Project · EBAC
 Main Notebook: Proy_empAliada_06_FutureSalesVanish.ipynb
 
-
-xxxxx
-
 ## Project Overview
 This project focuses on building a time series forecasting model to predict future sales of the product Vanish. It is part of the Partner Company Project within the Data Science & Business Analytics Program (EBAC).
 
